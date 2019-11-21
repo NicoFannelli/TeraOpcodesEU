@@ -1,2 +1,2 @@
 # TeraOpcodesEU
-Full opcode list - Tera EU (Patch v86.6)
+Full opcode list - Tera EU (Patch v87)
